@@ -1,0 +1,388 @@
+{
+  "plan_info": {
+    "name": "UNIT C1",
+    "units": "pixels",
+    "origin": [
+      0,
+      0
+    ],
+    "scale_ft-per_pixel": null
+  },
+  "walls": [
+    {
+      "id": "w01",
+      "type": "interior",
+      "start_point": [
+        222.0,
+        244.0
+      ],
+      "end_point": [
+        222.0,
+        759.0
+      ],
+      "length": 515.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w02",
+      "type": "interior",
+      "start_point": [
+        241.0,
+        256.0
+      ],
+      "end_point": [
+        241.0,
+        593.0
+      ],
+      "length": 337.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w03",
+      "type": "interior",
+      "start_point": [
+        703.0,
+        806.0
+      ],
+      "end_point": [
+        776.0,
+        806.0
+      ],
+      "length": 73.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w04",
+      "type": "interior",
+      "start_point": [
+        1160.0,
+        161.0
+      ],
+      "end_point": [
+        1367.0,
+        161.0
+      ],
+      "length": 207.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w05",
+      "type": "interior",
+      "start_point": [
+        903.0,
+        827.0
+      ],
+      "end_point": [
+        1358.0,
+        827.0
+      ],
+      "length": 455.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w06",
+      "type": "interior",
+      "start_point": [
+        514.0,
+        173.0
+      ],
+      "end_point": [
+        514.0,
+        557.0
+      ],
+      "length": 384.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w07",
+      "type": "interior",
+      "start_point": [
+        1163.0,
+        543.0
+      ],
+      "end_point": [
+        1390.0,
+        543.0
+      ],
+      "length": 227.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w08",
+      "type": "interior",
+      "start_point": [
+        831.0,
+        815.0
+      ],
+      "end_point": [
+        905.0,
+        815.0
+      ],
+      "length": 74.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w09",
+      "type": "interior",
+      "start_point": [
+        223.0,
+        806.0
+      ],
+      "end_point": [
+        636.0,
+        806.0
+      ],
+      "length": 413.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w10",
+      "type": "interior",
+      "start_point": [
+        1049.0,
+        149.0
+      ],
+      "end_point": [
+        1334.0,
+        149.0
+      ],
+      "length": 285.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w11",
+      "type": "interior",
+      "start_point": [
+        796.0,
+        84.0
+      ],
+      "end_point": [
+        1052.0,
+        84.0
+      ],
+      "length": 256.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w12",
+      "type": "interior",
+      "start_point": [
+        798.0,
+        80.0
+      ],
+      "end_point": [
+        1052.0,
+        80.0
+      ],
+      "length": 254.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w13",
+      "type": "interior",
+      "start_point": [
+        789.0,
+        265.0
+      ],
+      "end_point": [
+        789.0,
+        424.0
+      ],
+      "length": 159.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w14",
+      "type": "interior",
+      "start_point": [
+        505.0,
+        257.0
+      ],
+      "end_point": [
+        505.0,
+        502.0
+      ],
+      "length": 245.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w15",
+      "type": "interior",
+      "start_point": [
+        914.0,
+        674.0
+      ],
+      "end_point": [
+        1086.0,
+        674.0
+      ],
+      "length": 172.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w16",
+      "type": "interior",
+      "start_point": [
+        1086.0,
+        815.0
+      ],
+      "end_point": [
+        1345.0,
+        815.0
+      ],
+      "length": 259.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w17",
+      "type": "interior",
+      "start_point": [
+        1402.0,
+        284.0
+      ],
+      "end_point": [
+        1402.0,
+        440.0
+      ],
+      "length": 156.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w18",
+      "type": "interior",
+      "start_point": [
+        1162.0,
+        552.0
+      ],
+      "end_point": [
+        1346.0,
+        552.0
+      ],
+      "length": 184.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w19",
+      "type": "interior",
+      "start_point": [
+        374.0,
+        557.0
+      ],
+      "end_point": [
+        436.0,
+        557.0
+      ],
+      "length": 62.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w20",
+      "type": "interior",
+      "start_point": [
+        1391.0,
+        507.0
+      ],
+      "end_point": [
+        1391.0,
+        541.0
+      ],
+      "length": 34.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w21",
+      "type": "interior",
+      "start_point": [
+        600.0,
+        794.0
+      ],
+      "end_point": [
+        647.0,
+        794.0
+      ],
+      "length": 47.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w22",
+      "type": "interior",
+      "start_point": [
+        799.0,
+        348.0
+      ],
+      "end_point": [
+        799.0,
+        556.0
+      ],
+      "length": 208.0,
+      "orientation": "vertical",
+      "openings": []
+    },
+    {
+      "id": "w23",
+      "type": "interior",
+      "start_point": [
+        339.0,
+        244.0
+      ],
+      "end_point": [
+        372.0,
+        244.0
+      ],
+      "length": 33.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w24",
+      "type": "interior",
+      "start_point": [
+        339.0,
+        256.0
+      ],
+      "end_point": [
+        372.0,
+        256.0
+      ],
+      "length": 33.0,
+      "orientation": "horizontal",
+      "openings": []
+    },
+    {
+      "id": "w25",
+      "type": "interior",
+      "start_point": [
+        906.0,
+        664.0
+      ],
+      "end_point": [
+        1086.0,
+        664.0
+      ],
+      "length": 180.0,
+      "orientation": "horizontal",
+      "openings": []
+    }
+  ]
+}
